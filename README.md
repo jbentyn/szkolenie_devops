@@ -1,4 +1,4 @@
-Projekt szkolenie DEVOPS
+Projekt szkolenie DEVOPS https://travis-ci.org/jbentyn/szkolenie_devops.svg?branch=master
 ===================
 
 
